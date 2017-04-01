@@ -8,6 +8,9 @@ def is_prime?(number)
 
 end
 
+
+
+
 # Second, implement the highest_prime_number_under method below. It should accept a number as
 # an argument and return the highest prime number under that number. For example, the 
 # highest prime number under 10 is 7.
