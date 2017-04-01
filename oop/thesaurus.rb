@@ -45,7 +45,6 @@ class Thesaurus
   def look_up_synonyms(word)
     idx = @entry.words.index([word])
     @entry.synonyms[idx]
-
   end
 
   def look_up_antonyms(word)
